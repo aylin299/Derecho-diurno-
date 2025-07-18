@@ -1,25 +1,25 @@
 body {
   font-family: sans-serif;
-  background-color: #e0f7fa; /* Azul pastel */
+  background-color: #e0f7fa; /* azul pastel */
   color: #333;
   padding: 20px;
 }
 
 h1 {
   text-align: center;
-  color: #00796b; /* Verde oscuro */
+  color: #00796b;
 }
 
 .anio {
   margin-bottom: 30px;
-  border-left: 5px solid #81c784; /* Verde pastel */
+  border-left: 5px solid #81c784; /* verde pastel */
   padding-left: 15px;
   background-color: #f1f8e9;
   border-radius: 10px;
 }
 
 .semestre {
-  background-color: #e3f2fd; /* Azul pastel */
+  background-color: #e3f2fd;
   margin-top: 10px;
   padding: 10px;
   border-radius: 10px;
